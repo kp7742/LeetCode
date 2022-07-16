@@ -1,0 +1,19 @@
+# Mac junk
+.DS_STORE
+
+# Config files
+config.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/

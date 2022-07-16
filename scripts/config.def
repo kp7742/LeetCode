@@ -1,0 +1,13 @@
+{
+    "useAccount": false,
+    "sessionToken": "",
+    "problemDirName": "[questionId]-[titleSlug]",
+    "solutionLangs": [
+        {
+            "name" : "Java",
+            "lang" : "java",
+            "ext": ".java"
+        }
+    ],
+    "solutionFileName": "solution"
+}
