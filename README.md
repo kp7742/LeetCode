@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|-----|:--------:|:----------:|
+|576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[Java](./problems/576-out-of-boundary-paths/solution.java)|Medium|
 |2227|[Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/)|[Java](./problems/2227-encrypt-and-decrypt-strings/solution.java)|Hard|
 |1734|[Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/)|[Java](./problems/1734-decode-xored-permutation/solution.java)|Medium|
 |1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Java](./problems/1710-maximum-units-on-a-truck/solution.java)|Easy|
