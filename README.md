@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|:-----:|:--------:|:----------:|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./problems/35-search-insert-position/solution.java)|Easy|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Java](./problems/29-divide-two-integers/solution.java)|Medium|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](./problems/28-implement-strstr/solution.java)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](./problems/27-remove-element/solution.java)|Easy|
