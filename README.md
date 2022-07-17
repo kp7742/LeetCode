@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|:-----:|:--------:|:----------:|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./problems/104-maximum-depth-of-binary-tree/solution.java)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](./problems/102-binary-tree-level-order-traversal/solution.java)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java](./problems/100-same-tree/solution.java)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](./problems/88-merge-sorted-array/solution.java)|Easy|
