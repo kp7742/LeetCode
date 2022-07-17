@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|:-----:|:--------:|:----------:|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Java](./problems/200-number-of-islands/solution.java)|Medium|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Java](./problems/199-binary-tree-right-side-view/solution.java)|Medium|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./problems/191-number-of-1-bits/solution.java)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./problems/189-rotate-array/solution.java)|Medium|
