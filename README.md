@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|:-----:|:--------:|:----------:|
+|1444|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Java](./problems/1444-number-of-steps-to-reduce-a-number-to-zero/solution.java)|Easy|
 |1019|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Java](./problems/1019-squares-of-a-sorted-array/solution.java)|Easy|
 |898|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Java](./problems/898-transpose-matrix/solution.java)|Easy|
 |792|[Binary Search](https://leetcode.com/problems/binary-search/)|[Java](./problems/792-binary-search/solution.java)|Easy|
