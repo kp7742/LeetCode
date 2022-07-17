@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|:-----:|:--------:|:----------:|
+|898|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Java](./problems/898-transpose-matrix/solution.java)|Easy|
 |792|[Binary Search](https://leetcode.com/problems/binary-search/)|[Java](./problems/792-binary-search/solution.java)|Easy|
 |1013|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Java](./problems/1013-fibonacci-number/solution.java)|Easy|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./problems/503-next-greater-element-ii/solution.java)|Medium|
