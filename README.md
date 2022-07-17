@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|:-----:|:--------:|:----------:|
+|318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[Java](./problems/318-maximum-product-of-word-lengths/solution.java)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](./problems/283-move-zeroes/solution.java)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Java](./problems/278-first-bad-version/solution.java)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./problems/268-missing-number/solution.java)|Easy|
