@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|:-----:|:--------:|:----------:|
+|503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./problems/503-next-greater-element-ii/solution.java)|Medium|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Java](./problems/496-next-greater-element-i/solution.java)|Easy|
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[Java](./problems/318-maximum-product-of-word-lengths/solution.java)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](./problems/283-move-zeroes/solution.java)|Easy|
