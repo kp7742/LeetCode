@@ -56,7 +56,7 @@ if config.get('useAccount'):
 print('[=>] Searching Your Problem on LeetCode..')
 
 problem = leetcode.searchProblem(args.query if queryMode else args.number)
-if not problem or (not queryMode and problem['questionId'] != str(args.number)):
+if not problem or (not queryMode and problem['frontendQuestionId'] != str(args.number)):
     print("[X] Problem Not Found!")
     exit(0)
 
@@ -71,7 +71,7 @@ if not details:
 print('[=>] Found Problem Details')
 
 # Display Problem Info
-print(f'[*] Id: {details["questionId"]}')
+print(f'[*] Id: {details["questionFrontendId"]}')
 print(f'[*] Title: {details["title"]}')
 print(f'[*] Type: {"Premium" if details["isPaidOnly"] else "Free"}')
 print(f'[*] Difficulty: {details["difficulty"]}')
@@ -91,7 +91,7 @@ if details["isPaidOnly"] and not isPremiumUser:
 
 # Directory for Problem
 dirName = config.get('problemDirName')
-dirName = dirName.replace('[questionId]', details['questionId'])
+dirName = dirName.replace('[questionId]', details['questionFrontendId'])
 dirName = dirName.replace('[titleSlug]', details['titleSlug'])
 dirName = dirName.replace('[title]', details['title'])
 dirName = dirName.replace('[difficulty]', details['difficulty'].lower())
@@ -114,7 +114,7 @@ if not isExist(mdPath):
 
 # Solution files for Problem
 solName = config.get('solutionFileName')
-solName = solName.replace('[questionId]', details['questionId'])
+solName = solName.replace('[questionId]', details['questionFrontendId'])
 solName = solName.replace('[titleSlug]', details['titleSlug'])
 solName = solName.replace('[title]', details['title'])
 solName = solName.replace('[difficulty]', details['difficulty'].lower())
@@ -178,7 +178,7 @@ else:
     print('[=>] Updating Existing Problem Entry')
     isNewEntry = ""
     # Get both the entry
-    entryStart = readMe.find(f"|{details['questionId']}|")
+    entryStart = readMe.find(f"|{details['questionFrontendId']}|")
     preEntry = readMe[:entryStart]
 
     # Middle ground trick to find correct offset
@@ -188,7 +188,7 @@ else:
 
 # Construct file with new entry
 readMe = preEntry + isNewEntry
-readMe += f"|{details['questionId']}"
+readMe += f"|{details['questionFrontendId']}"
 readMe += f"|[{details['title']}]({problemEndPoint}{details['titleSlug']}/)"
 readMe += "🔒|" if details['isPaidOnly'] else "|"
 readMe += ", ".join([f'[{x["name"]}]({x["path"]})' for x in allSols])

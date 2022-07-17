@@ -6,17 +6,6 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|:-----:|:--------:|:----------:|
-|1433|[Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/)|[Java](./problems/1433-encrypt-and-decrypt-strings/solution.java)|Hard|
-|1835|[Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/)|[Java](./problems/1835-decode-xored-permutation/solution.java)|Medium|
-|1829|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Java](./problems/1829-maximum-units-on-a-truck/solution.java)|Easy|
-|1603|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Java](./problems/1603-running-sum-of-1d-array/solution.java)|Easy|
-|1575|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|[Java](./problems/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/solution.java)|Medium|
-|1557|[Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)|[Java](./problems/1557-check-if-a-string-contains-all-binary-codes-of-size-k/solution.java)|Medium|
-|1444|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Java](./problems/1444-number-of-steps-to-reduce-a-number-to-zero/solution.java)|Easy|
-|1019|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Java](./problems/1019-squares-of-a-sorted-array/solution.java)|Easy|
-|898|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Java](./problems/898-transpose-matrix/solution.java)|Easy|
-|792|[Binary Search](https://leetcode.com/problems/binary-search/)|[Java](./problems/792-binary-search/solution.java)|Easy|
-|1013|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Java](./problems/1013-fibonacci-number/solution.java)|Easy|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./problems/503-next-greater-element-ii/solution.java)|Medium|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Java](./problems/496-next-greater-element-i/solution.java)|Easy|
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[Java](./problems/318-maximum-product-of-word-lengths/solution.java)|Medium|

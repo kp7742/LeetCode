@@ -30,7 +30,7 @@ def searchProblem(query):
             ) {
                 total: totalNum
                 questions: data {
-                    questionId
+                    frontendQuestionId: questionFrontendId
                     title
                     titleSlug
                 }
@@ -68,7 +68,7 @@ def getProblemDetails(title_slug):
     gqlquery = '''
         query questionData($titleSlug: String!) {
             question(titleSlug: $titleSlug) {
-                questionId
+                questionFrontendId
                 title
                 titleSlug
                 content
