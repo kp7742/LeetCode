@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|:-----:|:--------:|:----------:|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Java](./problems/278-first-bad-version/solution.java)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./problems/268-missing-number/solution.java)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./problems/242-valid-anagram/solution.java)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Java](./problems/226-invert-binary-tree/solution.java)|Easy|
