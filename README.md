@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|:-----:|:--------:|:----------:|
+|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Java](./problems/509-fibonacci-number/solution.java)|Easy|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./problems/503-next-greater-element-ii/solution.java)|Medium|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Java](./problems/496-next-greater-element-i/solution.java)|Easy|
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[Java](./problems/318-maximum-product-of-word-lengths/solution.java)|Medium|
