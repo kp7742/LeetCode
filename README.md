@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|:-----:|:--------:|:----------:|
+|1019|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Java](./problems/1019-squares-of-a-sorted-array/solution.java)|Easy|
 |898|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Java](./problems/898-transpose-matrix/solution.java)|Easy|
 |792|[Binary Search](https://leetcode.com/problems/binary-search/)|[Java](./problems/792-binary-search/solution.java)|Easy|
 |1013|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Java](./problems/1013-fibonacci-number/solution.java)|Easy|
