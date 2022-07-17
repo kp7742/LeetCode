@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|:-----:|:--------:|:----------:|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](./problems/28-implement-strstr/solution.java)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](./problems/27-remove-element/solution.java)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./problems/26-remove-duplicates-from-sorted-array/solution.java)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](./problems/21-merge-two-sorted-lists/solution.java)|Easy|
