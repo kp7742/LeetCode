@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|:-----:|:--------:|:----------:|
+|1835|[Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/)|[Java](./problems/1835-decode-xored-permutation/solution.java)|Medium|
 |1829|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Java](./problems/1829-maximum-units-on-a-truck/solution.java)|Easy|
 |1603|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Java](./problems/1603-running-sum-of-1d-array/solution.java)|Easy|
 |1575|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|[Java](./problems/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/solution.java)|Medium|
