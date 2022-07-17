@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|:-----:|:--------:|:----------:|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java](./problems/100-same-tree/solution.java)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](./problems/88-merge-sorted-array/solution.java)|Easy|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Java](./problems/61-rotate-list/solution.java)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./problems/53-maximum-subarray/solution.java)|Medium|
