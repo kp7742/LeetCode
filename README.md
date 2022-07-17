@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|:-----:|:--------:|:----------:|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](./problems/21-merge-two-sorted-lists/solution.java)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./problems/20-valid-parentheses/solution.java)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](./problems/14-longest-common-prefix/solution.java)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./problems/13-roman-to-integer/solution.java)|Easy|
