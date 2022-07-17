@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|:-----:|:--------:|:----------:|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./problems/189-rotate-array/solution.java)|Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](./problems/167-two-sum-ii-input-array-is-sorted/solution.java)|Medium|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](./problems/160-intersection-of-two-linked-lists/solution.java)|Easy|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Java](./problems/128-longest-consecutive-sequence/solution.java)|Medium|
