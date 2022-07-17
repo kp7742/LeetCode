@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|:-----:|:--------:|:----------:|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./problems/191-number-of-1-bits/solution.java)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./problems/189-rotate-array/solution.java)|Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](./problems/167-two-sum-ii-input-array-is-sorted/solution.java)|Medium|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](./problems/160-intersection-of-two-linked-lists/solution.java)|Easy|
