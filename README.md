@@ -29,7 +29,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Java](./problems/205-isomorphic-strings/solution.java)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Java](./problems/200-number-of-islands/solution.java)|Medium|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Java](./problems/199-binary-tree-right-side-view/solution.java)|Medium|
-|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./problems/191-number-of-1-bits/solution.java)|Easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C](./problems/191-number-of-1-bits/solution.c), [C++](./problems/191-number-of-1-bits/solution.cpp), [Java](./problems/191-number-of-1-bits/solution.java)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./problems/189-rotate-array/solution.java)|Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](./problems/167-two-sum-ii-input-array-is-sorted/solution.java)|Medium|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](./problems/160-intersection-of-two-linked-lists/solution.java)|Easy|
