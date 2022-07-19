@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|-----|:--------:|:----------:|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](./problems/119-pascals-triangle-ii/solution.java)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](./problems/118-pascals-triangle/solution.java)|Easy|
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[Java](./problems/576-out-of-boundary-paths/solution.java)|Medium|
 |2227|[Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/)|[Java](./problems/2227-encrypt-and-decrypt-strings/solution.java)|Hard|
