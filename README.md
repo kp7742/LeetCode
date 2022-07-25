@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|-----|:--------:|:----------:|
+|315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Java](./problems/315-count-of-smaller-numbers-after-self/solution.java)|Hard|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Java](./problems/4-median-of-two-sorted-arrays/solution.java)|Hard|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./problems/74-search-a-2d-matrix/solution.java)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](./problems/75-sort-colors/solution.java)|Medium|
