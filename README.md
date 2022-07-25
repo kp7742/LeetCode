@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|-----|:--------:|:----------:|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Java](./problems/4-median-of-two-sorted-arrays/solution.java)|Hard|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./problems/74-search-a-2d-matrix/solution.java)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](./problems/75-sort-colors/solution.java)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](./problems/287-find-the-duplicate-number/solution.java)|Medium|
