@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|-----|:--------:|:----------:|
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Java](./problems/739-daily-temperatures/solution.java)|Medium|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Java](./problems/41-first-missing-positive/solution.java)|Hard|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Java](./problems/315-count-of-smaller-numbers-after-self/solution.java)|Hard|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Java](./problems/4-median-of-two-sorted-arrays/solution.java)|Hard|
