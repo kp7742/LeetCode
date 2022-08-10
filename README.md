@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|-----|:--------:|:----------:|
+|57|[Insert Interval](./problems/57-insert-interval/)|[Java](./problems/57-insert-interval/solution.java)|Medium|
 |767|[Reorganize String](./problems/767-reorganize-string/)|[Java](./problems/767-reorganize-string/solution.java)|Medium|
 |19|[Remove Nth Node From End of List](./problems/19-remove-nth-node-from-end-of-list/)|[Java](./problems/19-remove-nth-node-from-end-of-list/solution.java)|Medium|
 |695|[Max Area of Island](./problems/695-max-area-of-island/)|[Java](./problems/695-max-area-of-island/solution.java)|Medium|
