@@ -189,7 +189,11 @@ else:
 # Construct file with new entry
 readMe = preEntry + isNewEntry
 readMe += f"|{details['questionFrontendId']}"
-readMe += f"|[{details['title']}]({problemEndPoint}{details['titleSlug']}/)"
+
+# Changing title url from leetcode.com to problem's directory
+#readMe += f"|[{details['title']}]({problemEndPoint}{details['titleSlug']}/)"
+readMe += f"|[{details['title']}](./problems/{dirName}/)"
+
 readMe += "🔒|" if details['isPaidOnly'] else "|"
 readMe += ", ".join([f'[{x["name"]}]({x["path"]})' for x in allSols])
 readMe += f"|{details['difficulty']}|"
