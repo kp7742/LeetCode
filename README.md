@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|-----|:--------:|:----------:|
+|208|[Implement Trie (Prefix Tree)](./problems/208-implement-trie-prefix-tree/)|[Java](./problems/208-implement-trie-prefix-tree/solution.java)|Medium|
 |162|[Find Peak Element](./problems/162-find-peak-element/)|[Java](./problems/162-find-peak-element/solution.java)|Medium|
 |744|[Find Smallest Letter Greater Than Target](./problems/744-find-smallest-letter-greater-than-target/)|[Java](./problems/744-find-smallest-letter-greater-than-target/solution.java)|Easy|
 |791|[Custom Sort String](./problems/791-custom-sort-string/)|[Java](./problems/791-custom-sort-string/solution.java)|Medium|
