@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|-----|:--------:|:----------:|
+|791|[Custom Sort String](./problems/791-custom-sort-string/)|[Java](./problems/791-custom-sort-string/solution.java)|Medium|
 |116|[Populating Next Right Pointers in Each Node](./problems/116-populating-next-right-pointers-in-each-node/)|[Java](./problems/116-populating-next-right-pointers-in-each-node/solution.java)|Medium|
 |23|[Merge k Sorted Lists](./problems/23-merge-k-sorted-lists/)|[Java](./problems/23-merge-k-sorted-lists/solution.java)|Hard|
 |448|[Find All Numbers Disappeared in an Array](./problems/448-find-all-numbers-disappeared-in-an-array/)|[Java](./problems/448-find-all-numbers-disappeared-in-an-array/solution.java)|Easy|
