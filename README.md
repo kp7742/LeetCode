@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|-----|:--------:|:----------:|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java](./problems/34-find-first-and-last-position-of-element-in-sorted-array/solution.java)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](./problems/56-merge-intervals/solution.java)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./problems/141-linked-list-cycle/solution.java)|Easy|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Java](./problems/739-daily-temperatures/solution.java)|Medium|
