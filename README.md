@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|-----|:--------:|:----------:|
+|19|[Remove Nth Node From End of List](./problems/19-remove-nth-node-from-end-of-list/)|[Java](./problems/19-remove-nth-node-from-end-of-list/solution.java)|Medium|
 |695|[Max Area of Island](./problems/695-max-area-of-island/)|[Java](./problems/695-max-area-of-island/solution.java)|Medium|
 |852|[Peak Index in a Mountain Array](./problems/852-peak-index-in-a-mountain-array/)|[Java](./problems/852-peak-index-in-a-mountain-array/solution.java)|Medium|
 |215|[Kth Largest Element in an Array](./problems/215-kth-largest-element-in-an-array/)|[Java](./problems/215-kth-largest-element-in-an-array/solution.java)|Medium|
