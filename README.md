@@ -6,6 +6,7 @@ My submissions for LeetCode problems - Generated using [LeetCode Workflow](./scr
 ## Problems & Solutions
 |  #  | Title | Solution | Difficulty |
 |:---:|-----|:--------:|:----------:|
+|994|[Rotting Oranges](./problems/994-rotting-oranges/)|[Java](./problems/994-rotting-oranges/solution.java)|Medium|
 |896|[Monotonic Array](./problems/896-monotonic-array/)|[Java](./problems/896-monotonic-array/solution.java)|Easy|
 |208|[Implement Trie (Prefix Tree)](./problems/208-implement-trie-prefix-tree/)|[Java](./problems/208-implement-trie-prefix-tree/solution.java)|Medium|
 |162|[Find Peak Element](./problems/162-find-peak-element/)|[Java](./problems/162-find-peak-element/solution.java)|Medium|
